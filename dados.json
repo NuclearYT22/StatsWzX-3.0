@@ -1,0 +1,21 @@
+{
+  "armas": [
+    {
+      "name": "MCW",
+      "category": "Assault Rifle",
+      "image": "https://ui-avatars.com/api/?name=MCW&background=00000000&color=fff",
+      "tier": "S",
+      "stats": {
+        "usage": "12.2%",
+        "kd": "1.08",
+        "winrate": "3.1%",
+        "ttk": "654ms"
+      },
+      "attachments": [
+        { "slot": "Muzzle", "nome": "VT-7 Spiritfire Suppressor" },
+        { "slot": "Underbarrel", "nome": "Kimura RYN-03 Grip" },
+        { "slot": "Optic", "nome": "Slate Reflector" }
+      ]
+    }
+  ]
+}
